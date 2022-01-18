@@ -3,12 +3,11 @@
 <details>
 <summary>Etch-a-sketch✏</summary>
 <br>
-👉 [etch-a-sketch Page](https://typohydra.github.io/etch-a-sketch/) 👈
+  <a href="https://typohydra.github.io/etch-a-sketch/"><b>👉 Etch-a-sketch Page 👈</b></a>
 </details>
 
 <details>
 <summary>Calculator🧮</summary>
 <br>
-👉 [Calculator Page](https://typohydra.github.io/calculator/) 👈
+  <a href="https://typohydra.github.io/calculator/"><b>👉 Calculator Page 👈</b></a>
 </details>
-
